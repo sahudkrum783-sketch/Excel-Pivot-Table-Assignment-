@@ -1,10 +1,3 @@
-# Excel-Pivot-Table-Assignment
-Perfect! We can update your README to include a **section about what you learned** from doing this assignment. This is actually great for GitHub because it shows reflection and skill development.
-
-Here’s how your README could look with that included:
-
----
-
 # **Excel Pivot Table Assignment**
 
 ## Overview
