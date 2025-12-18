@@ -52,3 +52,11 @@ From completing this assignment, I have learned:
 
 * **Excel File:** Contains dataset and completed Pivot Tables
 * **Word File:** Step-by-step explanation of tasks and analysis
+
+---
+
+## Author 
+
+Anushka Sahu
+
+🔗 LinkedIn: https://www.linkedin.com/in/anushkasahu783/
